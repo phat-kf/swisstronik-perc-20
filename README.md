@@ -14,7 +14,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/swisstronik-perc-20.git
+    git clone https://github.com/phat-kafi/swisstronik-perc-20.git
     cd swisstronik-perc-20
     ```
 
